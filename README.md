@@ -4,10 +4,6 @@
 
 I’m a bit of a multipassionate developer—I love diving into new topics depending on my mood and solving complex problems. 
 
-<table style="border: none;">
-<tr style="border: none;">
-  <td width="70%" style="border: none;" valign="top">
-  <div style="border-right: 1px   solid #d0d7de; padding-right: 16px; line-height: 1.4;">
 
   <h4 style="margin-bottom: 4px;">About Me</h4>
 
@@ -15,9 +11,12 @@ I’m a bit of a multipassionate developer—I love diving into new topics depen
   - Ask me about **Math, Problem Solving, Machine Learning, and Web Development**
   - How to reach me: **[alif.sajid0906@gmail.com](alif.sajid0906@gmail.com)**
   - Fun fact: **I suck at Chess**
-  </div>
-  </td>
-  <td width="30%" valign="top" style="padding-left: 16px; border: none">
+
+
+  <h4 style="margin-bottom: 4px;">Skills</h4>
+
+  <i>Coding Problem Solving, Web Dev, AI & ML Dev, System Design, Math</i>
+
 
   <h4 style="margin-bottom: 4px;">Favorite Tech Stack</h4>
 
@@ -28,13 +27,6 @@ I’m a bit of a multipassionate developer—I love diving into new topics depen
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24" height="24" alt="PostgreSQL" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="24" height="24" alt="Docker" />
   </p>
-
-  <h4 style="margin-bottom: 4px;">Skills</h4>
-
-  <i>Coding Problem Solving, Web Dev, AI & ML Dev, System Design, Math</i>
-</td>
-</tr>
-</table>
 
 <h3 style="margin-bottom: 4px;">GitHub Stats</h3>
 
