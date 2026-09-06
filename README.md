@@ -4,9 +4,9 @@
 
 I’m a bit of a multipassionate developer—I love diving into new topics depending on my mood and solving complex problems. 
 
-<table style="border: 0px">
-<tr>
-  <td width="70%" valign="top">
+<table style="border: none;">
+<tr style="border: none;">
+  <td width="70%" style="border: none;" valign="top">
   <div style="border-right: 1px   solid #d0d7de; padding-right: 16px; line-height: 1.4;">
 
   <h4 style="margin-bottom: 4px;">About Me</h4>
@@ -17,7 +17,7 @@ I’m a bit of a multipassionate developer—I love diving into new topics depen
   - Fun fact: **I suck at Chess**
   </div>
   </td>
-  <td width="30%" valign="top" style="padding-left: 16px;">
+  <td width="30%" valign="top" style="padding-left: 16px; border: none">
 
   <h4 style="margin-bottom: 4px;">Favorite Tech Stack</h4>
 
