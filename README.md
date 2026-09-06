@@ -38,7 +38,7 @@ I’m a bit of a multipassionate developer—I love diving into new topics depen
 
 <h3 style="margin-bottom: 4px;">GitHub Stats</h3>
 
-<div align="center">
+<div align="left" >
   <img src="github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
