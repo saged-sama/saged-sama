@@ -4,10 +4,10 @@
 
 I’m a bit of a multipassionate developer—I love diving into new topics depending on my mood and solving complex problems. 
 
-<table>
+<table style="border: 0px">
 <tr>
   <td width="70%" valign="top">
-  <div style="border-right: 1px solid #d0d7de; padding-right: 16px; line-height: 1.4;">
+  <div style="border-right: 1px   solid #d0d7de; padding-right: 16px; line-height: 1.4;">
 
   <h4 style="margin-bottom: 4px;">About Me</h4>
 
@@ -39,8 +39,7 @@ I’m a bit of a multipassionate developer—I love diving into new topics depen
 <h3 style="margin-bottom: 4px;">GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saged-sama&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saged-sama&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
 <!--## 🌐 Connect with me -->
