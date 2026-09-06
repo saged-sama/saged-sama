@@ -1,29 +1,42 @@
-# Hi there, I'm Sajid 👋
+<h1 style="border-bottom: none;"> Konnichiwa, I'm Sajid 👋 </h1>
 
-### A Full-Stack Developer from Bangladesh 🇧🇩
+<h3 style="margin-bottom: 4px;">A Full-Stack Developer from Bangladesh 🇧🇩</h3>
 
 I’m a bit of a multipassionate developer—I love diving into new topics depending on my mood and solving complex problems. 
 
-## 👨‍💻 About Me
+<table>
+<tr>
+  <td width="70%" valign="top">
+  <div style="border-right: 1px solid #d0d7de; padding-right: 16px; line-height: 1.4;">
 
-- 🌱 I’m currently learning **ML Basics and AI Development**
-- 💬 Ask me about **Math, Problem Solving, Machine Learning, and Web Development**
-- 📫 How to reach me: **alif.sajid0906@gmail.com**
-- ⚡ Fun fact: **I suck at Chess**
+  <h4 style="margin-bottom: 4px;">About Me</h4>
 
----
+  - I’m currently learning **ML Basics and AI Development**
+  - Ask me about **Math, Problem Solving, Machine Learning, and Web Development**
+  - How to reach me: **[alif.sajid0906@gmail.com](alif.sajid0906@gmail.com)**
+  - Fun fact: **I suck at Chess**
+  </div>
+  </td>
+  <td width="30%" valign="top" style="padding-left: 16px;">
 
-## 🛠️ Favorite Tech Stack
+  <h4 style="margin-bottom: 4px;">Favorite Tech Stack</h4>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  <p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" alt="Python" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="24" height="24" alt="Svelte" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" width="24" height="24" alt="Tauri" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24" height="24" alt="PostgreSQL" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="24" height="24" alt="Docker" />
+  </p>
 
----
+  <h4 style="margin-bottom: 4px;">Skills</h4>
 
-## 📊 GitHub Stats
+  <i>Coding Problem Solving, Web Dev, AI & ML Dev, System Design, Math</i>
+</td>
+</tr>
+</table>
+
+<h3 style="margin-bottom: 4px;">GitHub Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saged-sama&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
