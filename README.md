@@ -28,11 +28,11 @@ I’m a bit of a multipassionate developer—I love diving into new topics depen
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="24" height="24" alt="Docker" />
   </p>
 
-<h3 style="margin-bottom: 4px;">GitHub Stats</h3>
+<!-- <h3 style="margin-bottom: 4px;">GitHub Stats</h3>
 
 <div align="left" >
   <img src="github-metrics.svg" alt="GitHub Metrics" />
-</div>
+</div> -->
 
 <!--## 🌐 Connect with me -->
 
