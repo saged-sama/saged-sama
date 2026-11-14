@@ -1,43 +1,42 @@
-# Astro Starter Kit: Minimal
+<h1 style="border-bottom: none;"> Konnichiwa, I'm Sajid 👋 </h1>
 
-```sh
-pnpm create astro@latest -- --template minimal
-```
+<h3 style="margin-bottom: 4px;">A Full-Stack Developer from Bangladesh 🇧🇩</h3>
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+I’m a bit of a multipassionate developer—I love diving into new topics depending on my mood and solving complex problems. 
 
-## 🚀 Project Structure
 
-Inside of your Astro project, you'll see the following folders and files:
+  <h4 style="margin-bottom: 4px;">About Me</h4>
 
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+  - I’m currently learning **ML Basics and AI Development**
+  - Ask me about **Math, Problem Solving, Machine Learning, and Web Development**
+  - How to reach me: **[alif.sajid0906@gmail.com](alif.sajid0906@gmail.com)**
+  - Fun fact: **I suck at Chess**
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+  <h4 style="margin-bottom: 4px;">Skills</h4>
 
-Any static assets, like images, can be placed in the `public/` directory.
+  <i>Coding Problem Solving, Web Dev, AI & ML Dev, System Design, Math</i>
 
-## 🧞 Commands
 
-All commands are run from the root of the project, from a terminal:
+  <h4 style="margin-bottom: 4px;">Favorite Tech Stack</h4>
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `pnpm install`             | Installs dependencies                            |
-| `pnpm dev`             | Starts local dev server at `localhost:4321`      |
-| `pnpm build`           | Build your production site to `./dist/`          |
-| `pnpm preview`         | Preview your build locally, before deploying     |
-| `pnpm astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `pnpm astro -- --help` | Get help using the Astro CLI                     |
+  <p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" alt="Python" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="24" height="24" alt="Svelte" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" width="24" height="24" alt="Tauri" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24" height="24" alt="PostgreSQL" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="24" height="24" alt="Docker" />
+  </p>
 
-## 👀 Want to learn more?
+<h3 style="margin-bottom: 4px;">GitHub Stats</h3>
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+<div align="left" >
+  <img src="github-metrics.svg" alt="GitHub Metrics" />
+</div>
+
+<!--## 🌐 Connect with me -->
+
+<!-- IMPORTANT: Replace the links with your actual profile URLs -->
+<!-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-website.com) -->
