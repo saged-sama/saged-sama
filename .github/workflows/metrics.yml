@@ -14,3 +14,14 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Asia/Dhaka
           plugin_languages: yes
+
+  # Once a day, start the website's workflow so it picks up changes made in portfolio-admin.
+  # Only on the schedule: the website pushes README updates here, which trigger this workflow's
+  # `push` event, and dispatching from those would loop.
+  sync-site:
+    if: github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    steps:
+      - run: gh workflow run site.yml -R saged-sama/saged-sama.github.io
+        env:
+          GH_TOKEN: ${{ secrets.GH_PROFILE_TOKEN }}

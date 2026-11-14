@@ -28,6 +28,31 @@ I’m a bit of a multipassionate developer—I love diving into new topics depen
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="24" height="24" alt="Docker" />
   </p>
 
+<!-- The blocks between portfolio:… markers are regenerated from saged-sama.github.io on every sync. -->
+
+<h4 style="margin-bottom: 4px;">Featured Projects</h4>
+
+<!-- portfolio:projects -->
+- [**LessonQ**](https://saged-sama.github.io/projects/lessonq/): LessonQ is an LMS SaaS platform brought by our own startup Wemate. The SaaS platform aims to ease the educators' endeavor to build their own website to build an online presence of their educational organization
+- [**Wemate CRM**](https://saged-sama.github.io/projects/wemate-crm/): A CRM SaaS that we primarily built for our own use. Since then it has evolved into a full fledged CRM SaaS that we are currently aiming to start selling
+- [**English360**](https://saged-sama.github.io/projects/english360/): LMS for One of the Best Bangladeshi English Learning Platforms by Rudra. Features one of the most sophisticated and cheapest online exercise arenas for students available in Bangladesh.
+
+[All projects →](https://saged-sama.github.io/projects/)
+<!-- /portfolio:projects -->
+
+<h4 style="margin-bottom: 4px;">Latest Posts</h4>
+
+<!-- portfolio:posts -->
+- [বঙ্গদেশের সর্পসমূহের সংক্ষিপ্ত পরিচিতি](https://saged-sama.github.io/blog/brief-introduction-to-bangladeshi-snakes/) · Oct 2026
+
+[All posts →](https://saged-sama.github.io/blog/)
+<!-- /portfolio:posts -->
+
+More about me on my website:
+<!-- portfolio:site -->
+[saged-sama.github.io](https://saged-sama.github.io)
+<!-- /portfolio:site -->
+
 <h3 style="margin-bottom: 4px;">GitHub Stats</h3>
 
 <div align="left" >
